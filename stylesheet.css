@@ -15,7 +15,7 @@ a {
 
 .top-wrapper {
     padding: 180px 0 100px 0;
-    background-image: url(img/https://github.com/pontya0912/kevin/blob/master/Monokuro.JPG?raw=true);
+    background-image: url("img/https://github.com/pontya0912/kevin/blob/master/Monokuro.JPG?raw=true");
     background-size:  cover;
     color: white;
     text-align: center;
